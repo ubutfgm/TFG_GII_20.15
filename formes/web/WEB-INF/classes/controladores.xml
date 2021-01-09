@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+
+<!DOCTYPE controladores SYSTEM "dtds/controladores.dtd">
+
+<controladores>
+ 
+    <controlador nombre="tpv">
+    <hereda-de controlador="Typical" /> 
+		<accion nombre="save" 
+		modo="detail"
+			por-defecto="si-posible"
+			clase="com.tuempresa.formes.actions.GrabarTicket"
+			imagen="save.gif"
+			icono="content-save"
+			atajo-de-teclado="Control N"/>	 
+	
+		<accion nombre="printPdf"
+			modo="detail"
+			clase="com.tuempresa.formes.actions.ImpresionTicket"
+			image="pdf.gif"
+			icon="file-pdf"
+			keystroke="Control Alt P">
+			<set property="format" value="pdf"/>
+		</accion>
+
+	</controlador>
+ 
+
+
+</controladores>

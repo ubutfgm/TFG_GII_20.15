@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beanDataAdapter class="net.sf.jasperreports.data.bean.BeanDataAdapterImpl"><name>New Data Adapter </name><factoryClass>com.jaspersoft.studio.data.sample.SampleJRDataSourceFactory</factoryClass><methodName>createBeanCollection</methodName><useFieldDescription>false</useFieldDescription><classpath>C:\Users\anton\OneDrive\Escritorio\TFG\openxava-6.4.2-windows\openxava-6.4.2\workspace\formes\data\formesDB.log</classpath></beanDataAdapter>
