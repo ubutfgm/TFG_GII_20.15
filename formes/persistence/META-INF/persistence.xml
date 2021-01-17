@@ -14,11 +14,12 @@
         <properties>
             <property name="javax.persistence.schema-generation.database.action" value="update"/>
             <property name="javax.persistence.create-database-schemas" value="true"/> 
-            <property name="hibernate.default_schema" value="formes"/>
+            <property name="hibernate.default_catalog" value="formes"/>
+            <property name="hibernate.jdbc.use_streams_for_binary" value="true"/>
         </properties>
     </persistence-unit>    
     
-    <!-- MySQL 
+    <!-- MySQL   
     <persistence-unit name="default">
     	<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
     	<non-jta-data-source>java://comp/env/jdbc/formesDS</non-jta-data-source>
@@ -29,10 +30,22 @@
             <property name="javax.persistence.create-database-schemas" value="true"/> 
             <property name="hibernate.default_catalog" value="formes"/>
         </properties>
-    </persistence-unit>    
-    -->
+    </persistence-unit>  
+    --> 
+     <!-- MySQL 
+    <persistence-unit name="junit">
+	<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+	<class>org.openxava.web.editors.DiscussionComment</class>
+	<properties>
+		<property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
+		<property name="hibernate.connection.username" value="root"/>
+		<property name="hibernate.connection.password" value="1234"/>		
+		<property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/formesdb"/>
+	</properties>
+  </persistence-unit>
+  -->    
             
-    <!-- JUnit Hypersonic -->
+    <!-- JUnit Hypersonic     -->
     <persistence-unit name="junit">
     	<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
     	<class>org.openxava.web.editors.DiscussionComment</class>
@@ -43,5 +56,5 @@
 			<property name="hibernate.connection.url" value="jdbc:hsqldb:hsql://localhost:1666"/>
         </properties>
     </persistence-unit>    
-        
+       
 </persistence>

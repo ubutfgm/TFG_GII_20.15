@@ -3,7 +3,11 @@ package com.tuempresa.formes.modelo;
 import javax.persistence.*;
 import org.hibernate.annotations.*;
 import org.openxava.annotations.*;
-
+/**
+ * 
+ *Esta clase esta basada en la clase del tutorial de OpenXava.
+ *
+ */
 @MappedSuperclass // Marcada como una superclase mapeada en vez de como una entidad
 public class Identificable {
 

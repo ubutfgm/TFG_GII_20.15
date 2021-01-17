@@ -3,7 +3,12 @@ package com.tuempresa.formes.modelo;
 import javax.persistence.*;
 
 import org.openxava.annotations.*;
-
+/**
+ * Entidad para la creación de los empleados de la empresa, para ello se pediran datos basico,
+ * sera para saber quien esta realizando la venta.
+ * @author Antoni Lluis Garcia Exposito
+ *
+ */
 @Entity
 @View(name = "Vendedor", // Esta vista solo se usará cuando se especifique “Simple”
 		members = "nombre" // Muestra únicamente el nombre
@@ -23,7 +28,10 @@ public class Empleado {
 	@Stereotype("EMAIL")
 	@Required
 	private String email;
-
+	/**
+	 * 
+	 * @return
+	 */
 	public int getId() {
 		return id;
 	}

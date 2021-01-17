@@ -5,7 +5,7 @@ import org.openxava.util.*;
 /**
  * Ejecuta esta clase para arrancar la aplicación.
  *
- * Con Eclipse: Botón derecho del ratón > Run As > Java Application
+ * Con Eclipse: Botón derecho del ratón  Run As  Java Application
  */
 
 public class _Run_formes {
