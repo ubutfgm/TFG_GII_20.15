@@ -1,0 +1,1113 @@
+15-Jan-2021 18:22:53.279 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.41
+15-Jan-2021 18:22:53.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Dec 3 2020 11:43:00 UTC
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.41.0
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\java\jdk-11.0.8
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.8+10-LTS
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+15-Jan-2021 18:22:53.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 18:22:53.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 18:22:53.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Jan-2021 18:22:53.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+15-Jan-2021 18:22:53.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Jan-2021 18:22:53.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\conf\logging.properties
+15-Jan-2021 18:22:53.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Jan-2021 18:22:53.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+15-Jan-2021 18:22:53.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Jan-2021 18:22:53.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+15-Jan-2021 18:22:53.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 18:22:53.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 18:22:53.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\temp
+15-Jan-2021 18:22:53.303 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\java\jdk-11.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\anton\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\anton\AppData\Local\Programs\Python\Python39\;C:\Users\anton\AppData\Local\Microsoft\WindowsApps;C:\Users\anton\AppData\Local\GitHubDesktop\bin;.]
+15-Jan-2021 18:22:53.540 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+15-Jan-2021 18:22:53.675 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [584] milliseconds
+15-Jan-2021 18:22:53.717 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+15-Jan-2021 18:22:53.717 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.41]
+15-Jan-2021 18:22:53.736 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\webapps\formes.war] de la aplicación web
+15-Jan-2021 18:22:57.182 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+15-Jan-2021 18:22:57.364 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.10 starting.
+15-Jan-2021 18:22:57.365 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.41
+15-Jan-2021 18:22:57.365 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   11.0.8
+15-Jan-2021 18:22:57.366 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Oracle Corporation
+15-Jan-2021 18:22:57.506 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+15-Jan-2021 18:22:57.506 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+15-Jan-2021 18:22:57.527 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\webapps\formes.war] has finished in [3.788] ms
+15-Jan-2021 18:22:57.532 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 18:22:57.538 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3862] milliseconds
+15-Jan-2021 18:23:18.811 INFO [http-nio-8080-exec-2] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 18:23:18.978 INFO [http-nio-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.9.Final}
+15-Jan-2021 18:23:18.980 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+15-Jan-2021 18:23:19.290 INFO [http-nio-8080-exec-2] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+15-Jan-2021 18:23:20.779 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 18:23:20.875 INFO [http-nio-8080-exec-2] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 18:23:21.361 WARN [http-nio-8080-exec-2] org.hibernate.id.UUIDHexGenerator.<init> HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+15-Jan-2021 18:23:21.618 INFO [http-nio-8080-exec-2] org.hibernate.validator.internal.util.Version.<clinit> HV000001: Hibernate Validator 6.0.15.Final
+15-Jan-2021 18:23:22.746 INFO [http-nio-8080-exec-2] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 18:23:22.891 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 18:23:22.896 INFO [http-nio-8080-exec-2] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 18:23:23.954 INFO [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.<clinit> OpenXava 6.4.2 (2020-11-9)
+15-Jan-2021 18:23:28.972 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 null MODULE:SignIn
+15-Jan-2021 18:23:30.968 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=1549 ms
+15-Jan-2021 18:23:32.961 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal SignIn.signIn 4ms
+15-Jan-2021 18:23:32.962 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=6 ms
+15-Jan-2021 18:23:33.070 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Marca
+15-Jan-2021 18:23:33.332 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Empleado
+15-Jan-2021 18:23:33.340 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ProductoPara
+15-Jan-2021 18:23:33.351 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ProductoPara
+15-Jan-2021 18:23:33.354 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tpv
+15-Jan-2021 18:23:33.512 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id facturasPendientes
+15-Jan-2021 18:23:33.519 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Marca
+15-Jan-2021 18:23:33.749 INFO [http-nio-8080-exec-2] org.hibernate.hql.internal.QueryTranslatorFactoryInitiator.initiateService HHH000397: Using ASTQueryTranslatorFactory
+15-Jan-2021 18:23:33.947 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:23:33.966 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=248
+15-Jan-2021 18:23:34.149 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=453 ms
+15-Jan-2021 18:23:36.142 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 2ms
+15-Jan-2021 18:23:36.152 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cards
+15-Jan-2021 18:23:36.712 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:23:36.713 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 18:23:36.726 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=587 ms
+15-Jan-2021 18:23:38.126 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 18:23:38.321 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id productoPara
+15-Jan-2021 18:23:38.341 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pagaCon
+15-Jan-2021 18:23:38.341 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id resto
+15-Jan-2021 18:23:38.350 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 18:23:38.352 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+15-Jan-2021 18:23:39.133 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 18:23:39.281 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pagaCon
+15-Jan-2021 18:23:39.282 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id resto
+15-Jan-2021 18:23:39.971 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id printPdf
+15-Jan-2021 18:23:39.973 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=1654 ms
+15-Jan-2021 18:23:41.844 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 0ms
+15-Jan-2021 18:23:41.855 WARNING [http-nio-8080-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tpv
+15-Jan-2021 18:23:41.856 WARNING [http-nio-8080-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pagaCon
+15-Jan-2021 18:23:41.857 WARNING [http-nio-8080-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id resto
+15-Jan-2021 18:23:41.876 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 18:23:41.878 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 18:23:41.886 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=45 ms
+15-Jan-2021 18:28:55.831 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Marca
+15-Jan-2021 18:28:56.000 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:28:56.002 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:28:56.031 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=33 ms
+15-Jan-2021 18:30:58.446 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CRUD.save 111ms
+15-Jan-2021 18:30:58.539 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=205 ms
+15-Jan-2021 18:31:01.779 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 0ms
+15-Jan-2021 18:31:01.801 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:31:01.803 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:31:01.810 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=32 ms
+15-Jan-2021 18:31:13.352 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Marca
+15-Jan-2021 18:31:13.603 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:31:13.604 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:31:13.612 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=37 ms
+15-Jan-2021 18:54:07.261 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Empleado
+15-Jan-2021 18:54:07.430 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 18:54:07.435 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.nombre, e.direccion.viaPublica, e.id, e.email from Empleado e con argumentos 
+15-Jan-2021 18:54:07.437 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+15-Jan-2021 18:54:07.474 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id municipio
+15-Jan-2021 18:54:07.477 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 18:54:07.484 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=57 ms
+15-Jan-2021 18:54:10.805 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Pedido
+15-Jan-2021 18:54:10.972 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id productoPara
+15-Jan-2021 18:54:10.997 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 18:54:10.998 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id importeCosteTotal
+15-Jan-2021 18:54:11.001 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 18:54:11.002 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 18:54:11.006 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 18:54:11.104 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id importeCosteTotal
+15-Jan-2021 18:54:11.109 WARNING [http-nio-8080-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioCostePorUnidad
+15-Jan-2021 18:54:11.127 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=157 ms
+15-Jan-2021 18:54:12.449 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Producto
+15-Jan-2021 18:54:12.631 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 18:54:12.635 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+15-Jan-2021 18:54:12.800 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 18:54:12.801 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 18:54:12.815 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:54:12.819 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+15-Jan-2021 18:54:12.826 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=205 ms
+15-Jan-2021 18:54:14.137 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 18:54:14.309 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 18:54:14.310 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:54:14.364 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=59 ms
+15-Jan-2021 18:54:15.816 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Pedido
+15-Jan-2021 18:54:15.979 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 18:54:15.980 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:54:16.009 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=34 ms
+15-Jan-2021 18:54:16.535 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 18:54:16.698 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 18:54:16.703 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+15-Jan-2021 18:54:16.755 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=61 ms
+15-Jan-2021 18:54:19.897 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 26ms
+15-Jan-2021 18:54:20.003 WARNING [http-nio-8080-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 18:54:20.010 WARNING [http-nio-8080-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 18:54:20.014 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.direccion.viaPublica, e.numero, e.telefono, e.nombre, 0, e.email from Cliente e con argumentos 
+15-Jan-2021 18:54:20.018 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+15-Jan-2021 18:54:20.027 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=158 ms
+15-Jan-2021 18:54:24.485 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.cancel 1ms
+15-Jan-2021 18:54:24.552 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=69 ms
+15-Jan-2021 18:54:25.132 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.createNew 5ms
+15-Jan-2021 18:54:25.146 WARNING [http-nio-8080-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 18:54:25.152 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=26 ms
+15-Jan-2021 18:55:23.026 WARNING [http-nio-8080-exec-3] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.SaveNewAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 18:55:23.027 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal NewCreation.saveNew 55ms
+15-Jan-2021 18:55:23.094 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=124 ms
+15-Jan-2021 18:55:23.172 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 3ms
+15-Jan-2021 18:55:23.173 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=6 ms
+15-Jan-2021 18:55:26.625 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Producto
+15-Jan-2021 18:55:26.789 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 18:55:26.791 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:55:26.797 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 18:55:26.798 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:55:26.805 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:55:26.806 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:55:26.810 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=23 ms
+15-Jan-2021 18:55:29.058 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.createNew 1ms
+15-Jan-2021 18:55:29.071 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=15 ms
+15-Jan-2021 18:55:32.950 WARNING [http-nio-8080-exec-4] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.SaveNewAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 18:55:32.951 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal NewCreation.saveNew 4ms
+15-Jan-2021 18:55:32.962 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 18:55:32.963 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:55:32.970 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:55:32.971 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:55:32.975 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=28 ms
+15-Jan-2021 18:56:09.838 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CRUD.save 26ms
+15-Jan-2021 18:56:09.852 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 18:56:09.853 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:56:09.855 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:56:09.856 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 18:56:09.861 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=51 ms
+15-Jan-2021 18:56:14.661 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Pedido
+15-Jan-2021 18:56:14.831 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 18:56:14.832 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:56:14.879 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=57 ms
+15-Jan-2021 18:56:17.887 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CRUD.save 27ms
+15-Jan-2021 18:56:17.928 WARNING [http-nio-8080-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Pedido
+15-Jan-2021 18:56:17.929 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=70 ms
+15-Jan-2021 18:56:17.986 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 18:56:17.986 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 18:56:20.393 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 0ms
+15-Jan-2021 18:56:20.408 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 18:56:20.409 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.410 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.411 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.413 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.414 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.415 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.416 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.418 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.420 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id estaPedido
+15-Jan-2021 18:56:20.420 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.422 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.422 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.423 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 18:56:20.425 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id importeCosteTotal
+15-Jan-2021 18:56:20.551 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 18:56:20.554 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+15-Jan-2021 18:56:20.563 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=172 ms
+15-Jan-2021 18:56:20.636 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 18:56:20.636 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=1 ms
+15-Jan-2021 18:56:49.487 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 18:56:49.681 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 18:56:49.683 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:56:49.753 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=99 ms
+15-Jan-2021 18:56:52.934 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 0ms
+15-Jan-2021 18:56:52.951 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.direccion.viaPublica, e.numero, e.telefono, e.nombre, 0, e.email from Cliente e con argumentos 
+15-Jan-2021 18:56:52.952 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:56:52.956 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=24 ms
+15-Jan-2021 18:56:53.957 WARNING [http-nio-8080-exec-2] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 18:56:53.958 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 6ms
+15-Jan-2021 18:56:54.011 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=60 ms
+15-Jan-2021 18:56:54.953 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 1ms
+15-Jan-2021 18:56:54.960 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id marca
+15-Jan-2021 18:56:55.093 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 18:56:55.094 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:56:55.097 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 18:56:55.099 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 18:56:55.101 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e_categoria.nombre, e.numero, e.precioCoste, e.precio, e.descripcion, e_marca.nombre, e.cantidadTotal, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 18:56:55.103 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 18:56:55.110 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=159 ms
+15-Jan-2021 18:56:56.483 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ProductoPara
+15-Jan-2021 18:56:56.486 WARNING [http-nio-8080-exec-9] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 18:56:56.487 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 27ms
+15-Jan-2021 18:56:56.525 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=66 ms
+15-Jan-2021 18:56:56.572 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 18:56:56.573 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=3 ms
+15-Jan-2021 18:56:59.243 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=20 ms
+15-Jan-2021 18:56:59.319 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 18:56:59.320 FINE [http-nio-8080-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 18:57:00.117 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal tpv.save 39ms
+15-Jan-2021 18:57:00.126 WARNING [http-nio-8080-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id empleado
+15-Jan-2021 18:57:00.130 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=53 ms
+15-Jan-2021 19:21:43.566 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 0ms
+15-Jan-2021 19:21:43.596 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 19:21:43.597 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 19:21:43.602 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=39 ms
+15-Jan-2021 19:21:43.693 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:21:43.694 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:54:53.206 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=0 ms
+15-Jan-2021 19:54:53.237 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 null MODULE:SignIn
+15-Jan-2021 19:54:53.460 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=22 ms
+15-Jan-2021 19:54:54.859 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal SignIn.signIn 0ms
+15-Jan-2021 19:54:54.860 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:54:54.902 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 19:54:55.052 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 19:54:55.054 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 19:54:55.116 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=67 ms
+15-Jan-2021 19:54:57.263 SEVERE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.manageRegularException null
+	java.lang.NullPointerException
+		at com.tuempresa.formes.actions.ImpresionTicket.getParameters(ImpresionTicket.java:35)
+		at org.openxava.actions.JasperReportBaseAction.execute(Unknown Source)
+		at org.openxava.controller.ModuleManager.executeAction(Unknown Source)
+		at org.openxava.controller.ModuleManager.executeAction(Unknown Source)
+		at org.openxava.controller.ModuleManager.execute(Unknown Source)
+		at org.apache.jsp.xava.execute_jsp._jspService(execute_jsp.java:266)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712)
+		at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:580)
+		at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:516)
+		at org.openxava.web.servlets.Servlets.getURIAsStream(Unknown Source)
+		at org.openxava.web.dwr.Module.getURIAsStream(Unknown Source)
+		at org.openxava.web.dwr.Module.request(Unknown Source)
+		at jdk.internal.reflect.GeneratedMethodAccessor73.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.directwebremoting.impl.ExecuteAjaxFilter.doFilter(ExecuteAjaxFilter.java:34)
+		at org.directwebremoting.impl.DefaultRemoter$1.doFilter(DefaultRemoter.java:428)
+		at org.directwebremoting.impl.DefaultRemoter.execute(DefaultRemoter.java:431)
+		at org.directwebremoting.impl.DefaultRemoter.execute(DefaultRemoter.java:283)
+		at org.directwebremoting.servlet.PlainCallHandler.handle(PlainCallHandler.java:52)
+		at org.directwebremoting.servlet.UrlProcessor.handle(UrlProcessor.java:101)
+		at org.directwebremoting.servlet.DwrServlet.doPost(DwrServlet.java:146)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:834)
+15-Jan-2021 19:54:57.264 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal tpv.printPdf 743ms
+15-Jan-2021 19:54:57.273 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=753 ms
+15-Jan-2021 19:55:04.384 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 1ms
+15-Jan-2021 19:55:04.429 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.direccion.viaPublica, e.id, e.nombre, e.email from Empleado e con argumentos 
+15-Jan-2021 19:55:04.431 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+15-Jan-2021 19:55:04.438 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=57 ms
+15-Jan-2021 19:55:07.125 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.cancel 1ms
+15-Jan-2021 19:55:07.179 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=55 ms
+15-Jan-2021 19:55:07.756 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.createNew 0ms
+15-Jan-2021 19:55:07.768 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=13 ms
+15-Jan-2021 19:55:28.423 WARNING [http-nio-8080-exec-10] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.SaveNewAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 19:55:28.424 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal NewCreation.saveNew 6ms
+15-Jan-2021 19:55:28.490 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=73 ms
+15-Jan-2021 19:55:28.564 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:55:28.565 FINE [http-nio-8080-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:55:29.503 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 0ms
+15-Jan-2021 19:55:29.544 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.direccion.viaPublica, e.numero, e.telefono, e.nombre, 0, e.email from Cliente e con argumentos 
+15-Jan-2021 19:55:29.545 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 19:55:29.550 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=48 ms
+15-Jan-2021 19:55:30.321 WARNING [http-nio-8080-exec-1] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 19:55:30.321 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 4ms
+15-Jan-2021 19:55:30.352 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=36 ms
+15-Jan-2021 19:55:30.417 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:55:30.417 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=1 ms
+15-Jan-2021 19:55:31.066 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 0ms
+15-Jan-2021 19:55:31.077 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 19:55:31.078 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 19:55:31.080 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 19:55:31.081 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 19:55:31.082 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e_categoria.nombre, e.numero, e.precioCoste, e.precio, e.descripcion, e_marca.nombre, e.cantidadTotal, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 19:55:31.084 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 19:55:31.089 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=24 ms
+15-Jan-2021 19:55:34.548 WARNING [http-nio-8080-exec-4] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 19:55:34.549 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 7ms
+15-Jan-2021 19:55:34.622 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=81 ms
+15-Jan-2021 19:55:34.669 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:55:34.670 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:55:37.318 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=85 ms
+15-Jan-2021 19:55:37.380 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:55:37.380 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:55:40.277 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal tpv.printPdf 1191ms
+15-Jan-2021 19:55:40.278 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=1194 ms
+15-Jan-2021 19:55:40.332 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 19:55:41.183 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=71 ms
+15-Jan-2021 19:55:41.223 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:55:41.224 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:55:57.618 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 1ms
+15-Jan-2021 19:55:57.645 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 19:55:57.646 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 19:55:57.651 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=35 ms
+15-Jan-2021 19:55:57.686 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:55:57.687 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=1 ms
+15-Jan-2021 19:55:59.114 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Producto
+15-Jan-2021 19:55:59.269 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 19:55:59.270 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 19:55:59.274 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.274 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.275 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.276 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.276 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.277 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.278 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.282 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.283 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.284 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.285 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.286 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.287 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.287 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.288 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.288 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:55:59.301 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 19:55:59.302 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 19:55:59.303 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 19:55:59.304 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 19:55:59.310 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=44 ms
+15-Jan-2021 19:56:03.727 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal List.viewDetail 49ms
+15-Jan-2021 19:56:03.748 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 19:56:03.749 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 19:56:03.758 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 19:56:03.758 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 19:56:03.766 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=89 ms
+15-Jan-2021 19:56:05.307 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 19:56:05.308 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 19:56:05.311 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=24 ms
+15-Jan-2021 19:56:05.337 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 19:56:05.338 FINE [http-nio-8080-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 19:56:05.985 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Marca
+15-Jan-2021 19:56:06.135 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 19:56:06.137 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 19:56:06.151 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=17 ms
+15-Jan-2021 19:56:06.699 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Pedido
+15-Jan-2021 19:56:06.860 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 19:56:06.865 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+15-Jan-2021 19:56:06.870 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.871 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.871 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.872 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.873 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.873 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.875 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.875 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.876 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.876 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.878 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.879 WARNING [http-nio-8080-exec-4] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:06.892 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=37 ms
+15-Jan-2021 19:56:08.378 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal List.viewDetail 14ms
+15-Jan-2021 19:56:08.412 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=48 ms
+15-Jan-2021 19:56:08.457 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 7ms
+15-Jan-2021 19:56:08.458 FINE [http-nio-8080-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=8 ms
+15-Jan-2021 19:56:10.586 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Mode.list 1ms
+15-Jan-2021 19:56:10.591 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.591 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.591 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.592 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.594 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.594 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.596 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.596 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.599 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.599 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.600 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.600 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 19:56:10.609 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 19:56:10.612 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 19:56:10.616 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=31 ms
+15-Jan-2021 22:14:07.379 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 null MODULE:SignIn
+15-Jan-2021 22:14:07.743 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=50 ms
+15-Jan-2021 22:14:11.050 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal SignIn.signIn 0ms
+15-Jan-2021 22:14:11.051 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 22:14:11.101 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Pedido
+15-Jan-2021 22:14:11.410 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 22:14:11.416 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=40
+15-Jan-2021 22:14:11.425 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.429 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.435 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.436 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.437 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.437 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.438 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.438 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.442 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.442 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.446 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.447 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:14:11.470 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=187 ms
+15-Jan-2021 22:20:06.976 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 79.150.233.11 null MODULE:SignIn
+15-Jan-2021 22:20:07.455 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=32 ms
+15-Jan-2021 22:20:15.829 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 84.120.124.207 null MODULE:SignIn
+15-Jan-2021 22:20:17.053 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Request time=21 ms
+15-Jan-2021 22:20:17.360 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal SignIn.signIn 0ms
+15-Jan-2021 22:20:17.360 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=1 ms
+15-Jan-2021 22:20:17.502 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal MODULE:Pedido
+15-Jan-2021 22:20:17.765 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 22:20:17.768 FINE [http-nio-8080-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 22:20:17.780 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.780 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.781 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.783 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.784 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.784 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.785 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.786 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.787 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.788 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.791 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.792 WARNING [http-nio-8080-exec-3] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:20:17.814 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=86 ms
+15-Jan-2021 22:20:21.662 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal MODULE:Marca
+15-Jan-2021 22:20:21.882 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:20:21.885 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+15-Jan-2021 22:20:21.927 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=48 ms
+15-Jan-2021 22:20:22.901 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 84.120.124.207 tribunal SignIn.signIn 0ms
+15-Jan-2021 22:20:22.901 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Request time=1 ms
+15-Jan-2021 22:20:23.148 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Marca
+15-Jan-2021 22:20:23.151 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id tpv
+15-Jan-2021 22:20:23.156 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Empleado
+15-Jan-2021 22:20:23.160 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id facturasPendientes
+15-Jan-2021 22:20:23.162 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 84.120.124.207 tribunal MODULE:Marca
+15-Jan-2021 22:20:23.475 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Executing SELECT e.oid, e.nombre from Marca e with arguments 
+15-Jan-2021 22:20:23.476 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 22:20:23.483 WARNING [http-nio-8080-exec-10] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Cards
+15-Jan-2021 22:20:23.494 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Request time=22 ms
+15-Jan-2021 22:20:42.851 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 84.120.124.207 tribunal CRUD.new 392ms
+15-Jan-2021 22:20:42.882 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Request time=425 ms
+15-Jan-2021 22:20:58.188 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 84.120.124.207 tribunal CRUD.save 115ms
+15-Jan-2021 22:20:58.193 WARNING [http-nio-8080-exec-1] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Marca
+15-Jan-2021 22:20:58.197 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Request time=125 ms
+15-Jan-2021 22:21:00.850 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal MODULE:Marca
+15-Jan-2021 22:21:01.113 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:21:01.114 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+15-Jan-2021 22:21:01.153 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=55 ms
+15-Jan-2021 22:21:06.384 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal CRUD.new 0ms
+15-Jan-2021 22:21:06.410 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=27 ms
+15-Jan-2021 22:21:29.861 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal CRUD.save 2ms
+15-Jan-2021 22:21:29.870 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=13 ms
+15-Jan-2021 22:21:30.556 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 84.120.124.207 tribunal CRUD.save 4ms
+15-Jan-2021 22:21:30.558 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Request time=7 ms
+15-Jan-2021 22:21:32.550 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 79.150.233.11 tribunal Mode.list 0ms
+15-Jan-2021 22:21:32.580 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:21:32.580 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:21:32.591 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=42 ms
+15-Jan-2021 22:21:35.602 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 84.120.124.207 tribunal Mode.list 0ms
+15-Jan-2021 22:21:35.614 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Executing SELECT e.oid, e.nombre from Marca e with arguments 
+15-Jan-2021 22:21:35.616 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:21:35.626 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Request time=25 ms
+15-Jan-2021 22:31:22.870 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Cliente
+15-Jan-2021 22:31:23.162 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.nombre, e.direccion.viaPublica, e.numero, e.telefono, e.email from Cliente e con argumentos 
+15-Jan-2021 22:31:23.163 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=74
+15-Jan-2021 22:31:23.244 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=156 ms
+15-Jan-2021 22:31:28.736 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CRUD.deleteRow 146ms
+15-Jan-2021 22:31:28.756 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.nombre, e.direccion.viaPublica, e.numero, e.telefono, e.email from Cliente e con argumentos 
+15-Jan-2021 22:31:28.757 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:31:28.759 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=171 ms
+15-Jan-2021 22:31:30.192 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Producto
+15-Jan-2021 22:31:30.365 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:31:30.369 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+15-Jan-2021 22:31:30.382 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.384 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.387 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.390 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.390 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.396 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.397 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.397 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.398 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.399 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.408 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.409 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.410 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.410 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.411 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.412 WARNING [http-nio-8080-exec-1] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:31:30.424 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:31:30.425 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:31:30.426 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:31:30.428 FINE [http-nio-8080-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 22:31:30.438 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=74 ms
+15-Jan-2021 22:31:34.475 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 22:31:34.662 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 22:31:34.665 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+15-Jan-2021 22:31:34.840 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=182 ms
+15-Jan-2021 22:31:48.576 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:31:48.684 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+15-Jan-2021 22:31:49.155 WARNING [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [formes] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@11.0.8/java.io.WinNTFileSystem.canonicalize0(Native Method)
+ java.base@11.0.8/java.io.WinNTFileSystem.canonicalize(WinNTFileSystem.java:438)
+ java.base@11.0.8/java.io.File.getCanonicalPath(File.java:620)
+ org.apache.catalina.webresources.AbstractFileResourceSet.file(AbstractFileResourceSet.java:94)
+ org.apache.catalina.webresources.DirResourceSet.getResource(DirResourceSet.java:101)
+ org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:281)
+ org.apache.catalina.webresources.CachedResource.validateResource(CachedResource.java:105)
+ org.apache.catalina.webresources.Cache.getResource(Cache.java:87)
+ org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:216)
+ org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:225)
+ org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:938)
+ org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1057)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:117)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base@11.0.8/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+ java.base@11.0.8/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+ java.base@11.0.8/java.lang.Thread.run(Thread.java:834)
+15-Jan-2021 22:31:49.156 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@4155a1e4]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.161 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@47101eec]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.181 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@7980f2b3]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.181 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7fcfccd3]) y un valor del tipo [org.openxava.util.UserInfo] (valor [org.openxava.util.UserInfo@9b1a439]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.182 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@5a205d2c]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.182 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@244b29b1]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.184 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@7966c879]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.184 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@3f402e51]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.188 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@27ed1477]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.210 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@680725f3]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.210 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@248afabf]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@7f7efee]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.232 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@397b7be7]) y un valor del tipo [org.apache.commons.collections.map.ReferenceMap] (valor [{ParallelWebappClassLoader
+  context: formes
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@7d907bac
+=com.sun.org.apache.xerces.internal.util.XMLGrammarPoolImpl@67c9c182}]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.232 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@357c5050]) y un valor del tipo [java.lang.Class] (valor [class ticket_TPV_1610736939137_140494]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:31:49.260 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:31:49.310 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:32:40.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.41
+15-Jan-2021 22:32:40.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Dec 3 2020 11:43:00 UTC
+15-Jan-2021 22:32:40.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.41.0
+15-Jan-2021 22:32:40.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+15-Jan-2021 22:32:40.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+15-Jan-2021 22:32:40.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+15-Jan-2021 22:32:40.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\java\jdk-11.0.8
+15-Jan-2021 22:32:40.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.8+10-LTS
+15-Jan-2021 22:32:40.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+15-Jan-2021 22:32:40.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:32:40.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:32:40.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Jan-2021 22:32:40.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+15-Jan-2021 22:32:40.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Jan-2021 22:32:40.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\conf\logging.properties
+15-Jan-2021 22:32:40.210 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Jan-2021 22:32:40.210 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+15-Jan-2021 22:32:40.210 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Jan-2021 22:32:40.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+15-Jan-2021 22:32:40.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:32:40.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:32:40.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\temp
+15-Jan-2021 22:32:40.216 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\java\jdk-11.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\anton\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\anton\AppData\Local\Programs\Python\Python39\;C:\Users\anton\AppData\Local\Microsoft\WindowsApps;C:\Users\anton\AppData\Local\GitHubDesktop\bin;.]
+15-Jan-2021 22:32:40.484 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+15-Jan-2021 22:32:40.622 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [598] milliseconds
+15-Jan-2021 22:32:40.662 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+15-Jan-2021 22:32:40.662 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.41]
+15-Jan-2021 22:32:40.680 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\webapps\formes.war] de la aplicación web
+15-Jan-2021 22:32:44.173 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+15-Jan-2021 22:32:44.530 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.10 starting.
+15-Jan-2021 22:32:44.531 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.41
+15-Jan-2021 22:32:44.532 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   11.0.8
+15-Jan-2021 22:32:44.533 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Oracle Corporation
+15-Jan-2021 22:32:44.672 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+15-Jan-2021 22:32:44.672 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+15-Jan-2021 22:32:44.690 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\webapps\formes.war] has finished in [4.009] ms
+15-Jan-2021 22:32:44.693 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:32:44.700 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4077] milliseconds
+15-Jan-2021 22:32:44.797 SEVERE [http-nio-8080-exec-1] org.openxava.jpa.impl.PersistenceXml.getPropetyValue null
+	java.lang.NullPointerException
+		at org.openxava.jpa.impl.PersistenceXml.getPropetyValue(Unknown Source)
+		at org.openxava.jpa.XPersistence.getEntityManagerFactory(Unknown Source)
+		at org.openxava.jpa.XPersistence.createManager(Unknown Source)
+		at org.openxava.component.parse.AnnotatedClassParser.obtainManagedClassNamesUsingJPA(Unknown Source)
+		at org.openxava.component.parse.AnnotatedClassParser.getManagedClassNames(Unknown Source)
+		at com.openxava.naviox.impl.Initializer.init(Unknown Source)
+		at com.openxava.naviox.web.NaviOXFilter.doFilter(Unknown Source)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:834)
+15-Jan-2021 22:32:44.823 SEVERE [http-nio-8080-exec-1] org.openxava.jpa.XPersistence.getEntityManagerFactory Actualización incorrecta de OpenXava: posiblemente algunos jars viejos están todavía en el classpath. Recuerda ejecutar la tarea ant updateOX en tu proyecto, borrar las carpetas .dist de tu workspace o workspace.dist, borrar la aplicación del servidor de aplicaciones (borrando la carpeta del webapps en el caso del Tomcat) y borrar las carpetas temp y work del Tomcat
+15-Jan-2021 22:32:44.824 WARNING [http-nio-8080-exec-1] org.openxava.component.parse.AnnotatedClassParser.getManagedClassNames Conexión de Hibernate no funciona, por lo tanto obtenemos las clases gestionadas por JPA directamente del classpath
+	java.lang.RuntimeException: javax.xml.parsers.ParserConfigurationException
+		at org.openxava.jpa.XPersistence.getEntityManagerFactory(Unknown Source)
+		at org.openxava.jpa.XPersistence.createManager(Unknown Source)
+		at org.openxava.component.parse.AnnotatedClassParser.obtainManagedClassNamesUsingJPA(Unknown Source)
+		at org.openxava.component.parse.AnnotatedClassParser.getManagedClassNames(Unknown Source)
+		at com.openxava.naviox.impl.Initializer.init(Unknown Source)
+		at com.openxava.naviox.web.NaviOXFilter.doFilter(Unknown Source)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:834)
+	Caused by: javax.xml.parsers.ParserConfigurationException
+		at org.openxava.jpa.impl.PersistenceXml.getPropetyValue(Unknown Source)
+		... 25 more
+15-Jan-2021 22:32:44.826 WARNING [http-nio-8080-exec-1] org.openxava.component.parse.AnnotatedClassParser.obtainManagedClassNamesFromFileClassPath Ficheros ancla para obtener clases gestionadas por JPA no encontrados: xava.properties, application.xml, aplicacion.xml
+15-Jan-2021 22:32:44.986 INFO [http-nio-8080-exec-3] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:32:44.986 INFO [http-nio-8080-exec-2] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:32:45.143 INFO [http-nio-8080-exec-3] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.9.Final}
+15-Jan-2021 22:32:45.145 INFO [http-nio-8080-exec-3] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+15-Jan-2021 22:32:45.338 INFO [http-nio-8080-exec-4] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:32:45.491 INFO [http-nio-8080-exec-4] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+15-Jan-2021 22:32:47.123 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:32:47.123 INFO [http-nio-8080-exec-4] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:32:47.123 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:32:47.224 INFO [http-nio-8080-exec-4] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:32:47.224 INFO [http-nio-8080-exec-3] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:32:47.224 INFO [http-nio-8080-exec-2] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:32:47.764 WARN [http-nio-8080-exec-3] org.hibernate.id.UUIDHexGenerator.<init> HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+15-Jan-2021 22:32:48.040 INFO [http-nio-8080-exec-4] org.hibernate.validator.internal.util.Version.<clinit> HV000001: Hibernate Validator 6.0.15.Final
+15-Jan-2021 22:32:49.438 INFO [http-nio-8080-exec-2] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:32:49.649 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:32:49.664 INFO [http-nio-8080-exec-2] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:32:49.758 INFO [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.<clinit> OpenXava 6.4.2 (2020-11-9)
+15-Jan-2021 22:32:57.610 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:32:57.692 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+15-Jan-2021 22:32:57.755 WARNING [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [formes] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:948)
+ org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1057)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:117)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base@11.0.8/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+ java.base@11.0.8/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+ java.base@11.0.8/java.lang.Thread.run(Thread.java:834)
+15-Jan-2021 22:32:57.763 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:32:57.804 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:33:29.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.41
+15-Jan-2021 22:33:29.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Dec 3 2020 11:43:00 UTC
+15-Jan-2021 22:33:29.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.41.0
+15-Jan-2021 22:33:29.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+15-Jan-2021 22:33:29.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+15-Jan-2021 22:33:29.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+15-Jan-2021 22:33:29.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\java\jdk-11.0.8
+15-Jan-2021 22:33:29.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.8+10-LTS
+15-Jan-2021 22:33:29.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+15-Jan-2021 22:33:29.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:33:29.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:33:29.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Jan-2021 22:33:29.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+15-Jan-2021 22:33:29.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Jan-2021 22:33:29.790 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\conf\logging.properties
+15-Jan-2021 22:33:29.790 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Jan-2021 22:33:29.790 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+15-Jan-2021 22:33:29.791 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Jan-2021 22:33:29.791 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+15-Jan-2021 22:33:29.791 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:33:29.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat
+15-Jan-2021 22:33:29.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\temp
+15-Jan-2021 22:33:29.796 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\java\jdk-11.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\anton\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\anton\AppData\Local\Programs\Python\Python39\;C:\Users\anton\AppData\Local\Microsoft\WindowsApps;C:\Users\anton\AppData\Local\GitHubDesktop\bin;.]
+15-Jan-2021 22:33:30.069 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+15-Jan-2021 22:33:30.198 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [585] milliseconds
+15-Jan-2021 22:33:30.239 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+15-Jan-2021 22:33:30.239 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.41]
+15-Jan-2021 22:33:30.263 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\webapps\formes.war] de la aplicación web
+15-Jan-2021 22:33:33.927 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+15-Jan-2021 22:33:34.293 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.10 starting.
+15-Jan-2021 22:33:34.293 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.41
+15-Jan-2021 22:33:34.294 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   11.0.8
+15-Jan-2021 22:33:34.295 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Oracle Corporation
+15-Jan-2021 22:33:34.443 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+15-Jan-2021 22:33:34.443 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+15-Jan-2021 22:33:34.461 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\anton\OneDrive\Escritorio\TFG\Tomcat\webapps\formes.war] has finished in [4.197] ms
+15-Jan-2021 22:33:34.464 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:33:34.475 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4277] milliseconds
+15-Jan-2021 22:33:39.692 INFO [http-nio-8080-exec-2] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:33:39.848 INFO [http-nio-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate Core {5.3.9.Final}
+15-Jan-2021 22:33:39.851 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+15-Jan-2021 22:33:40.103 INFO [http-nio-8080-exec-3] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:33:40.191 INFO [http-nio-8080-exec-2] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+15-Jan-2021 22:33:41.802 INFO [http-nio-8080-exec-3] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:33:41.802 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:33:41.901 INFO [http-nio-8080-exec-3] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:33:41.901 INFO [http-nio-8080-exec-2] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:33:42.444 WARN [http-nio-8080-exec-3] org.hibernate.id.UUIDHexGenerator.<init> HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+15-Jan-2021 22:33:42.777 INFO [http-nio-8080-exec-3] org.hibernate.validator.internal.util.Version.<clinit> HV000001: Hibernate Validator 6.0.15.Final
+15-Jan-2021 22:33:44.142 INFO [http-nio-8080-exec-2] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+15-Jan-2021 22:33:44.312 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+15-Jan-2021 22:33:44.317 INFO [http-nio-8080-exec-2] org.hibernate.envers.boot.internal.EnversServiceImpl.configure Envers integration enabled? : true
+15-Jan-2021 22:33:44.559 INFO [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.<clinit> OpenXava 6.4.2 (2020-11-9)
+15-Jan-2021 22:33:44.593 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Empleado
+15-Jan-2021 22:33:44.612 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ProductoPara
+15-Jan-2021 22:33:44.628 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Marca
+15-Jan-2021 22:33:44.690 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tpv
+15-Jan-2021 22:33:44.712 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ProductoPara
+15-Jan-2021 22:33:44.728 WARNING [http-nio-8080-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id facturasPendientes
+15-Jan-2021 22:33:44.757 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 22:33:45.142 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id productoPara
+15-Jan-2021 22:33:45.180 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pagaCon
+15-Jan-2021 22:33:45.183 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id resto
+15-Jan-2021 22:33:45.216 INFO [http-nio-8080-exec-9] org.hibernate.hql.internal.QueryTranslatorFactoryInitiator.initiateService HHH000397: Using ASTQueryTranslatorFactory
+15-Jan-2021 22:33:45.369 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 22:33:45.390 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=202
+15-Jan-2021 22:33:45.527 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 22:33:45.550 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pagaCon
+15-Jan-2021 22:33:45.552 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id resto
+15-Jan-2021 22:33:45.626 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id printPdf
+15-Jan-2021 22:33:45.629 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=545 ms
+15-Jan-2021 22:33:46.963 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Producto
+15-Jan-2021 22:33:47.182 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:33:47.191 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=17
+15-Jan-2021 22:33:47.200 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cards
+15-Jan-2021 22:33:47.207 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.207 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.208 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.208 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.209 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.209 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.210 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.210 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.210 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.210 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.212 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.213 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.213 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.213 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.214 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.214 WARNING [http-nio-8080-exec-9] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:33:47.219 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id marca
+15-Jan-2021 22:33:47.272 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:33:47.273 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+15-Jan-2021 22:33:47.277 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:33:47.279 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 22:33:47.303 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=134 ms
+15-Jan-2021 22:33:50.040 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Cliente
+15-Jan-2021 22:33:50.229 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.nombre, e.direccion.viaPublica, e.numero, e.telefono, e.email from Cliente e con argumentos 
+15-Jan-2021 22:33:50.230 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 22:33:50.255 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id municipio
+15-Jan-2021 22:33:50.267 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 22:33:50.275 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=52 ms
+15-Jan-2021 22:33:52.714 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 91.126.199.158 null MODULE:SignIn
+15-Jan-2021 22:33:53.652 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=11 ms
+15-Jan-2021 22:33:59.674 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=22 ms
+15-Jan-2021 22:34:04.179 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 91.126.199.158 tribunal SignIn.signIn 27ms
+15-Jan-2021 22:34:04.179 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=28 ms
+15-Jan-2021 22:34:04.398 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 91.126.199.158 tribunal MODULE:Cliente
+15-Jan-2021 22:34:04.687 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.nombre, e.direccion.viaPublica, e.numero, e.telefono, e.email from Cliente e con argumentos 
+15-Jan-2021 22:34:04.688 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:04.729 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=46 ms
+15-Jan-2021 22:34:06.390 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 91.126.199.158 tribunal MODULE:Producto
+15-Jan-2021 22:34:06.705 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:34:06.706 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:06.712 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.712 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.712 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.713 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.713 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.713 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.714 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.714 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.715 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.715 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.715 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.715 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.717 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.719 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.720 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.720 WARNING [http-nio-8080-exec-8] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:06.740 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:34:06.741 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:06.743 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:34:06.744 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 22:34:06.754 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=52 ms
+15-Jan-2021 22:34:07.791 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 91.126.199.158 tribunal MODULE:Marca
+15-Jan-2021 22:34:08.140 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:34:08.141 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:08.158 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=21 ms
+15-Jan-2021 22:34:08.830 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 91.126.199.158 tribunal MODULE:facturasPendientes
+15-Jan-2021 22:34:09.229 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numeroFactura, e_marca.nombre, e.fechaVencimiento, e.cantidad, e.iban from facturasPendientes e left join e.marca e_marca con argumentos 
+15-Jan-2021 22:34:09.230 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=26
+15-Jan-2021 22:34:09.249 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:34:09.251 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:09.963 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=762 ms
+15-Jan-2021 22:34:11.444 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CRUD.save 115ms
+15-Jan-2021 22:34:11.458 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=130 ms
+15-Jan-2021 22:34:17.159 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:Producto
+15-Jan-2021 22:34:17.357 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:34:17.358 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 22:34:17.376 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.377 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.378 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.378 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.379 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.379 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.380 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.380 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.381 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.381 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.383 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.384 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.385 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.386 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.386 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.386 WARNING [http-nio-8080-exec-10] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:34:17.405 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:34:17.406 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:17.407 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:34:17.408 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 22:34:17.418 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=65 ms
+15-Jan-2021 22:34:18.878 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 22:34:19.093 FINE [http-nio-8080-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 22:34:19.094 FINE [http-nio-8080-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:19.178 FINE [http-nio-8080-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=120 ms
+15-Jan-2021 22:34:21.338 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 8ms
+15-Jan-2021 22:34:21.347 WARNING [http-nio-8080-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 22:34:21.355 WARNING [http-nio-8080-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 22:34:21.359 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.direccion.viaPublica, e.id, e.nombre, e.email from Empleado e con argumentos 
+15-Jan-2021 22:34:21.360 FINE [http-nio-8080-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 22:34:21.368 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=40 ms
+15-Jan-2021 22:34:22.266 WARNING [http-nio-8080-exec-4] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 22:34:22.268 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 15ms
+15-Jan-2021 22:34:22.314 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=62 ms
+15-Jan-2021 22:34:22.881 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 1ms
+15-Jan-2021 22:34:22.895 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 22:34:22.902 WARNING [http-nio-8080-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CIF
+15-Jan-2021 22:34:22.905 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.direccion.viaPublica, e.numero, e.telefono, e.nombre, 0, e.email from Cliente e con argumentos 
+15-Jan-2021 22:34:22.907 FINE [http-nio-8080-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+15-Jan-2021 22:34:22.913 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=34 ms
+15-Jan-2021 22:34:23.834 WARNING [http-nio-8080-exec-3] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 22:34:23.835 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 6ms
+15-Jan-2021 22:34:23.908 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=80 ms
+15-Jan-2021 22:34:24.774 FINE [http-nio-8080-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal Reference.search 1ms
+15-Jan-2021 22:34:24.790 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:34:24.791 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:34:24.794 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:34:24.795 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 22:34:24.798 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e_categoria.nombre, e.numero, e.precioCoste, e.precio, e.descripcion, e_marca.nombre, e.cantidadTotal, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:34:24.800 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 22:34:24.808 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=36 ms
+15-Jan-2021 22:34:25.882 WARNING [http-nio-8080-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ProductoPara
+15-Jan-2021 22:34:25.884 WARNING [http-nio-8080-exec-8] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia 
+15-Jan-2021 22:34:25.885 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal ReferenceSearch.choose 48ms
+15-Jan-2021 22:34:25.924 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=88 ms
+15-Jan-2021 22:34:25.980 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 4ms
+15-Jan-2021 22:34:25.980 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=5 ms
+15-Jan-2021 22:34:28.299 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal tpv.printPdf 1424ms
+15-Jan-2021 22:34:28.300 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=1426 ms
+15-Jan-2021 22:34:28.341 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 22:34:29.093 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=101 ms
+15-Jan-2021 22:35:15.478 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=21 ms
+15-Jan-2021 22:35:15.508 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal CollectionTotals.save 0ms
+15-Jan-2021 22:35:15.508 FINE [http-nio-8080-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 22:35:17.507 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal tpv.printPdf 235ms
+15-Jan-2021 22:35:17.508 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=237 ms
+15-Jan-2021 22:35:17.553 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 22:35:18.078 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=72 ms
+15-Jan-2021 22:35:29.204 FINE [http-nio-8080-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal tpv.printPdf 209ms
+15-Jan-2021 22:35:29.205 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=212 ms
+15-Jan-2021 22:35:29.244 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 tribunal MODULE:tpv
+15-Jan-2021 22:35:29.761 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=83 ms
+15-Jan-2021 22:38:59.863 FINE [http-nio-8080-exec-6] org.openxava.controller.ModuleManager.log 79.145.141.194 null MODULE:SignIn
+15-Jan-2021 22:39:01.064 FINE [http-nio-8080-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=19 ms
+15-Jan-2021 22:39:08.556 FINE [http-nio-8080-exec-5] org.openxava.controller.ModuleManager.log 79.145.141.194 null SignIn.signIn 0ms
+15-Jan-2021 22:39:08.558 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=4 ms
+15-Jan-2021 22:39:20.173 FINE [http-nio-8080-exec-1] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal SignIn.signIn 0ms
+15-Jan-2021 22:39:20.173 FINE [http-nio-8080-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=2 ms
+15-Jan-2021 22:39:20.433 FINE [http-nio-8080-exec-4] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:tpv
+15-Jan-2021 22:39:20.929 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 22:39:20.930 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:39:20.995 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=69 ms
+15-Jan-2021 22:39:32.168 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:Producto
+15-Jan-2021 22:39:32.672 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:39:32.674 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+15-Jan-2021 22:39:32.687 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.688 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.688 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.688 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.689 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.689 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.690 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.690 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.690 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.690 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.691 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.691 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.691 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.692 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.692 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.692 WARNING [http-nio-8080-exec-2] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:32.708 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:39:32.708 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:39:32.709 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:39:32.710 FINE [http-nio-8080-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 22:39:32.718 FINE [http-nio-8080-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=48 ms
+15-Jan-2021 22:39:34.953 FINE [http-nio-8080-exec-9] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:Cliente
+15-Jan-2021 22:39:35.442 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.nombre, e.direccion.viaPublica, e.numero, e.telefono, e.email from Cliente e con argumentos 
+15-Jan-2021 22:39:35.443 FINE [http-nio-8080-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:39:35.478 FINE [http-nio-8080-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=38 ms
+15-Jan-2021 22:39:37.893 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:Pedido
+15-Jan-2021 22:39:38.308 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id productoPara
+15-Jan-2021 22:39:38.311 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 22:39:38.312 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id importeCosteTotal
+15-Jan-2021 22:39:38.314 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.id, e.estaPedido, e.importeCosteTotal from Pedido e con argumentos 
+15-Jan-2021 22:39:38.316 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+15-Jan-2021 22:39:38.327 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+15-Jan-2021 22:39:38.327 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.327 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.328 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.328 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.329 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.329 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.329 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.329 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.330 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id estaPedido
+15-Jan-2021 22:39:38.330 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.331 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.331 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.331 WARNING [http-nio-8080-exec-7] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:39:38.333 WARNING [http-nio-8080-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id importeCosteTotal
+15-Jan-2021 22:39:38.351 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=44 ms
+15-Jan-2021 22:39:39.692 FINE [http-nio-8080-exec-2] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:CategoriaDelArticulo
+15-Jan-2021 22:39:40.094 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:39:40.094 FINE [http-nio-8080-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:39:40.109 FINE [http-nio-8080-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=18 ms
+15-Jan-2021 22:39:44.869 FINE [http-nio-8080-exec-8] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:tpv
+15-Jan-2021 22:39:45.260 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.numero, e.importeTotal, e.pagaCon, e.resto, e_cliente.nombre from tpv e left join e.cliente e_cliente con argumentos 
+15-Jan-2021 22:39:45.261 FINE [http-nio-8080-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:39:45.324 FINE [http-nio-8080-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=66 ms
+15-Jan-2021 22:40:22.530 FINE [http-nio-8080-exec-10] org.openxava.controller.ModuleManager.log 79.145.141.194 tribunal MODULE:Producto
+15-Jan-2021 22:40:23.006 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.numero, e.numero, e.descripcion, e_categoria.nombre, e_marca.nombre, e.precio, e.cantidadTotal, e.precioCoste, e.stockMinimo from Producto e left join e.categoria e_categoria left join e.marca e_marca con argumentos 
+15-Jan-2021 22:40:23.007 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:40:23.020 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.020 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.021 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.021 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.021 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.021 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.022 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.022 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.022 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.023 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.024 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.024 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.026 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.027 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.027 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.027 WARNING [http-nio-8080-exec-5] org.openxava.util.ResourceManagerI18n.getString Impossible to translate element with id and
+15-Jan-2021 22:40:23.043 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from CategoriaDelArticulo e con argumentos 
+15-Jan-2021 22:40:23.044 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+15-Jan-2021 22:40:23.044 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.oid, e.oid, e.nombre from Marca e con argumentos 
+15-Jan-2021 22:40:23.045 FINE [http-nio-8080-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=1
+15-Jan-2021 22:40:23.053 FINE [http-nio-8080-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=50 ms
+15-Jan-2021 22:40:39.698 FINE [http-nio-8080-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=61 ms
+15-Jan-2021 22:41:28.313 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:41:28.391 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+15-Jan-2021 22:41:28.458 WARNING [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [formes] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@11.0.8/java.io.WinNTFileSystem.canonicalize0(Native Method)
+ java.base@11.0.8/java.io.WinNTFileSystem.canonicalize(WinNTFileSystem.java:438)
+ java.base@11.0.8/java.io.File.getCanonicalPath(File.java:620)
+ org.apache.catalina.webresources.AbstractFileResourceSet.file(AbstractFileResourceSet.java:94)
+ org.apache.catalina.webresources.DirResourceSet.getResource(DirResourceSet.java:101)
+ org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:281)
+ org.apache.catalina.webresources.CachedResource.validateResource(CachedResource.java:105)
+ org.apache.catalina.webresources.Cache.getResource(Cache.java:87)
+ org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:216)
+ org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:225)
+ org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:938)
+ org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1057)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:117)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base@11.0.8/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+ java.base@11.0.8/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+ java.base@11.0.8/java.lang.Thread.run(Thread.java:834)
+15-Jan-2021 22:41:28.459 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@b4a8412]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.460 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@4e857e72]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.462 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@11b009a4]) y un valor del tipo [org.apache.commons.collections.map.ReferenceMap] (valor [{ParallelWebappClassLoader
+  context: formes
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@6ebc05a6
+=com.sun.org.apache.xerces.internal.util.XMLGrammarPoolImpl@200dd649}]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.462 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@1268982f]) y un valor del tipo [java.lang.Class] (valor [class ticket_TPV_1610746467583_15054]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.463 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@10a3ce5d]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.463 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@11b009a4]) y un valor del tipo [org.apache.commons.collections.map.ReferenceMap] (valor [{ParallelWebappClassLoader
+  context: formes
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@6ebc05a6
+=com.sun.org.apache.xerces.internal.util.XMLGrammarPoolImpl@5704ec03}]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.464 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@1268982f]) y un valor del tipo [java.lang.Class] (valor [class ticket_TPV_1610746529080_485514]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.464 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@1c42ea28]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.465 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@3bcbe5c8]) y un valor del tipo [org.openxava.util.UserInfo] (valor [org.openxava.util.UserInfo@59fa6f59]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.465 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@5432ddd1]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.465 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@11b009a4]) y un valor del tipo [org.apache.commons.collections.map.ReferenceMap] (valor [{ParallelWebappClassLoader
+  context: formes
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@6ebc05a6
+=com.sun.org.apache.xerces.internal.util.XMLGrammarPoolImpl@5f2a7ed5}]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.466 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@1268982f]) y un valor del tipo [java.lang.Class] (valor [class ticket_TPV_1610746517380_298865]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.466 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@733f8a76]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.466 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@7f6f8e12]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.467 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@1d0c5d6f]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.467 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@24baf43d]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.467 SEVERE [Thread-3] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks La aplicación web [formes] creó un ThreadLocal con clave del tipo [java.lang.ThreadLocal] (valor [java.lang.ThreadLocal@7d23ffb1]) y un valor del tipo [org.openxava.util.EmailNotifications.ModuleInfo] (valor [org.openxava.util.EmailNotifications$ModuleInfo@2b59b6e6]) pero no pudo quitarlo cuando la aplicación web se paró. Los hilos se van a renovar con el tiempo para intentar evitar in posible fallo de memoria.
+15-Jan-2021 22:41:28.473 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Jan-2021 22:41:28.495 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
