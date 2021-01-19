@@ -12,7 +12,7 @@ Durante el desarrollo se afrontará la implementación de la aplicación con los
 
 # Aplicación Web
 
-    www.formestallesgrans.com/formes
+    wwww.formestallesgrans.com/formes
 
 # Instalación en local
 La aplicación esta pensada para ser alojada en un servidor, (actualmente esta alojada en mi PC a modo de servidor), pero para la realización de las pruebas pertinentes, se puede instalar de forma local.
