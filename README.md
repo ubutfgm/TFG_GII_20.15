@@ -49,5 +49,3 @@ Pasos:
     localhost:8080/formes
     
 9.-Al acabar de realizar las pruebas hay que matar a los procesos de las dos terminales.
-
-    
